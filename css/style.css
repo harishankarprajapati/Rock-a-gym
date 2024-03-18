@@ -1,0 +1,231 @@
+.hero-bg {
+    background-image: url(../images/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1150px;
+
+}
+.paddhero{
+    padding-top: 565px;
+}
+.paddhero2{
+    padding-top: 450px;
+}
+.paddhero2 h4{
+    color: #fff;
+    font-size: 36px;
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+.paddhero2 p{
+    color: #fff;
+    font-family: "Open Sans";
+    font-size: 16px;
+}
+.sec-menu-bgg{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.paddhero2 p a {
+    font-family: "Open Sans";
+    font-size: 16px;
+    color:#E41C1F ;
+    font-weight: 600;
+    text-decoration: none;
+}
+.paddhero2 p a:hover {
+    color:#fff ;
+}
+
+.headermenusec {
+    color: #fff;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.headermenusec2btn {
+    background: #E41C1F;
+    border-radius: 40px;
+    display: inline-flex;
+    padding: 20px 37.18px 20px 37.38px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.headermenusec2btn:hover {
+    color: #E41C1F;
+    background: #fff;
+}
+
+.movesec {
+    background-image: url(../images/we3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 880px;
+}
+
+.movesec p {
+    color: #000;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 200;
+}
+
+.movesec h3 {
+    color: #000;
+    font-family: 'Inter';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+ }
+ .bg-tra{
+    background-color: #191C23;
+    padding: 50px 10px;
+ } 
+ .trans h2{
+    font-family: 'Montserrat';
+    color: #fff;
+    font-size: 55px;
+    font-weight: 700;
+ }
+ .trans2{
+    font-family: "Open Sans";
+    font-size: 18px;
+    color:#fff ;
+ }
+ .home-blogbg{
+    background-color: #292E32;
+    padding: 20px;
+    border-radius: 16px;
+ }
+ .home-blogbg h3{
+    font-family: 'Montserrat';
+    color: #EEEEEE;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+ }
+ .home-blogbg p{
+    font-family: "Open Sans";
+    font-size: 16px;
+    color: #EEEEEE;
+    padding-top: 20px;
+ }
+ .home-blogbg p a{
+    font-family: "Open Sans";
+    font-size: 16px;
+    color: #EEEEEE;
+    padding-top: 20px;
+ }
+
+ .home-blogbg p a:hover{
+    color: #E41C1F;
+ }
+ .videocode{
+    width: 100%;
+    height: auto;
+ }
+ .bg-prog{
+    background-image: url(../images/Placeholder.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 10px;
+ }
+ .ourpr h2{
+    font-family: 'Montserrat';
+    color: #EEEEEE;
+    font-size: 55px;
+    font-weight: 700;
+    text-align: center;
+ }
+ .ourpr p{
+    font-family: 'Open Sans';
+    color: #EEEEEE;
+    font-size: 18px;
+    text-align: center;
+ }
+ .program-bbgg{
+    background-color: #292E32;
+    border-radius: 16px;
+    padding: 20px;
+ }
+ .program-bbgg:hover{
+    background-color: #E41C1F;
+ }
+ .tranbgg{
+   background-image: url(../images/ot1.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 40px;
+   height: 40px;
+   }
+   .program-bbgg:hover .tranbgg{
+      background-image: url(../images/ot1hover.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 40px;
+      height: 40px;
+   }
+   .traning-text H3{
+      font-family: 'Montserrat';
+      color: #EEEEEE;
+      font-size: 35px;
+      font-weight: 700;
+      padding-left: 20px;
+   }
+
+ .traning-text p{
+   font-family: 'Open Sans';
+   color: #EEEEEE;
+   font-size: 18px;
+   padding-left: 20px;
+ }
+ .tranbgg2{
+   background-image: url(../images/ot2.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 40px;
+   height: 40px;
+   }
+   .program-bbgg:hover .tranbgg2{
+      background-image: url(../images/ot2hover.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 40px;
+      height: 40px;
+   }
+   .tranbgg3{
+      background-image: url(../images/ot3.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 40px;
+      height: 40px;
+      }
+      .program-bbgg:hover .tranbgg3{
+         background-image: url(../images/ot3hover.png);
+         background-repeat: no-repeat;
+         background-size: cover;
+         width: 40px;
+         height: 40px;
+      }
+      .tranbgg4{
+         background-image: url(../images/ot4.png);
+         background-repeat: no-repeat;
+         background-size: cover;
+         width: 40px;
+         height: 40px;
+         }
+         .program-bbgg:hover .tranbgg4{
+            background-image: url(../images/ot4hover.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 40px;
+            height: 40px;
+         }
