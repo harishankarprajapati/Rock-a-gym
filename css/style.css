@@ -663,13 +663,77 @@
    font-family: "Montserrat";
    font-weight: 700;
 }
+/* footer*/
+.footer-bg{
+   background-color: #121110;
+   padding: 30px 30px;
+}
+.socalicon{
+   display: flex;
+}
+.socalicon p {
+   padding: 0px 20px;
+}  
+.socalicon p a {
+   font-size: 25px;
+   color: #fff;
+}
+.secfitn{
+   text-align: right !important;
 
+}
+p.secfitn a {
+   color: #fff;
+   font-family: "Open Sans";
+   font-size: 20px;
+}
+.seccont4 i{
+   color: #E41C1F;
+   font-size: 30px;
+}
+.seccont4 h4{
+   font-size: 20px;
+   font-family: "Montserrat";
+   color: #fff;
+   font-weight: 700;
+}
+.seccont4 p a{
+   color: #fff;
+   font-family: "Open Sans";
+   font-size: 16px;
+}
+.owl-drag span {
+   font-size: 36px;
+   color: #fff;
+}
+.footer-bg2{
+   background-color: #121110;
+}
+.Copyrsec{
+   color: #fff;
+   font-family: "Open Sans";
+   font-size: 16px;
+}
+.Copyrsec2{
+   color: #fff;
+   text-align: right;
+   padding-bottom: 10px;
+}
+.Copyrsec2 a{
+   color: #fff;
+   font-family: "Open Sans";
+   font-size: 16px;
+  
+}
+/* footer-end */
 
+/* about-page */
+.aboutbg {
+   background-image: url(../images/hero-bg.png);
+   background-repeat: no-repeat;
+   background-size: cover;
 
-
-
-
-
+}
 
 
 
