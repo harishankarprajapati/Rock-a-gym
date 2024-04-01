@@ -9,6 +9,10 @@
 .paddhero {
    padding-top: 565px;
 }
+.socal-links {
+   display: flex;
+   align-items: center;
+}
 
 .paddhero2 {
    padding-top: 450px;
@@ -729,11 +733,117 @@ p.secfitn a {
 
 /* about-page */
 .aboutbg {
-   background-image: url(../images/hero-bg.png);
+   background-image: url(../images/aboutpagebackground.png);
    background-repeat: no-repeat;
    background-size: cover;
 
 }
+.aboutbg2 {
+   background-image: url(../images/aboutpagebackground.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: bottom;
+   height: 500px;
+
+}
+.heaname h1{
+   font-family: 'Montserrat';
+   font-size: 70px;
+   color: #fff;
+   text-transform: uppercase;
+   font-weight: 900;
+   text-align: center;
+   padding-top: 80px;
+}
+.marrabout{
+   background-color: #030303;
+   padding: 0px 100px 60px 100px;
+   margin-top: -10px;
+}
+.secabouttext h3{
+   font-family: 'Montserrat';
+   font-size: 25px;
+   color: #fff;
+   text-transform: uppercase;
+}
+.secabouttext p{
+   color: #fff;
+   font-family: "Open Sans";
+   font-size: 20px;
+}
+.secvisbgg{
+   background-color: #25201B;
+   padding: 50px 100px;
+}
+.secvisintext {
+   font-family: 'Montserrat';
+   font-size: 60px;
+   color: #fff;
+}
+.secvisintext2{
+   color: #fff;
+   font-family: "Open Sans";
+   font-size: 20px;
+}
+.foundd-bgg{
+   background-image: url(../images/Founderbg.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 60px 100px;
+}
+.flodbackmargin{
+   background: #000;
+   padding: 40px;
+   margin-left: -100px !important;
+   margin: 100px 40px 40px 40px;
+}
+
+.flodbackmargin h2{
+   font-family: 'Montserrat';
+   font-size: 50px;
+   color: #fff;
+   font-weight: 700;
+}
+ 
+.flodbackmargin h4{
+   color: #fff;
+   font-family: "Open Sans";
+   font-size: 25px;
+   font-weight: 600;
+}
+
+.flodbackmargin p{
+   color: #fff;
+   font-family: "Open Sans";
+   font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
