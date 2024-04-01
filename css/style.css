@@ -790,6 +790,7 @@ p.secfitn a {
    background-repeat: no-repeat;
    background-size: cover;
    padding: 60px 100px;
+   margin-bottom: 60px;
 }
 .flodbackmargin{
    background: #000;
