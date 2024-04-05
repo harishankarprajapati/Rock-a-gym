@@ -127,7 +127,42 @@
         </div>
 
 <!-- Look at our Trainer -->
-<div class="container-fluid secteainer-bg"></div>
+<div class="container-fluid secteainer-bg">
+    <h3>Look at our <br> <span>Trainer </span></h3>
+
+    <div class="owl-carousel trainer owl-theme">
+        <div class="item">
+            <div class="secmaintrainer">
+                <img class="img-fluid" src="images/trainer1.png" alt="">
+                <h4>Ayesha Fatimah</h4>
+                <p>Yoga Instructor</p>
+            </div>
+        </div>
+        <div class="item">
+            <div class="secmaintrainer">
+                <img class="img-fluid" src="images/trainer2.png" alt="">
+                <h4>Ahmed Doe</h4>
+                <p>Crossfit Trainer</p>
+            </div>
+        </div>
+        <div class="item">
+            <div class="secmaintrainer">
+                <img class="img-fluid" src="images/trainer3.png" alt="">
+                <h4>John Doe</h4>
+                <p>Fitness Coach</p>
+            </div>
+        </div>
+        <div class="item">
+            <div class="secmaintrainer">
+                <img class="img-fluid" src="images/trainer2.png" alt="">
+                <h4>Ahmed Doe</h4>
+                <p>Crossfit Trainer</p>
+            </div>
+        </div>
+
+       
+    </div>
+</div>
 
 
 
@@ -270,6 +305,22 @@
         <script src="js/owl.carousel.min.js" type="text/javascript"></script>
         <script src="js/include-html.min.js"></script>
         <script>
+            $('.owl-carousel.trainer').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+})
     
             jQuery(document).ready(function ($) {
     

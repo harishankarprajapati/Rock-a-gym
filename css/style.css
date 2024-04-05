@@ -120,6 +120,7 @@
    background-color: #292E32;
    padding: 20px;
    border-radius: 16px;
+   margin-bottom: 30px;
 }
 
 .home-blogbg h3 {
@@ -791,7 +792,6 @@ p.secfitn a {
    background-repeat: no-repeat;
    background-size: cover;
    padding: 60px 100px;
-   margin-bottom: 60px;
 }
 .flodbackmargin{
    background: #000;
@@ -819,10 +819,7 @@ p.secfitn a {
    font-family: "Open Sans";
    font-size: 18px;
 }
-.secteainer-bg{
-background-color: #313131;
-padding: 60px 10px;
-}
+
 
 .secover{
    overflow: hidden;
@@ -873,13 +870,68 @@ padding: 60px 10px;
    font-weight: 700;
    text-transform: capitalize;
 }
+.secteainer-bg{
+   background-color: #313131;
+   padding: 60px 60px;
+   }
+.secteainer-bg h3{
+   font-family: 'Montserrat';
+   font-size: 60px;
+   color: #fff;
+   text-transform: capitalize;
+   font-weight: 700;
+}
+.secteainer-bg h3 span{
+   color: #E41C1F !important;
+}
+.secmaintrainer{
+   background-color: #000;
+   margin-bottom: 30px;
+}
+.secmaintrainer h4{
+   font-family: 'Montserrat';
+   font-size: 20px;
+   color: #fff;
+   padding: 10px 10px 0px 20px;
+}
+.secmaintrainer p{
+   font-family: 'Montserrat';
+   font-size: 17px;
+   color: #C7C7C7;
+   padding: 0px 10px 30px 20px;
+}
+.trainer .owl-nav {
+      padding-bottom: 20px;
+      display: flex;
+      justify-content: flex-end;
+}
+.trainer .owl-dots {
+   display: none;
+}
+.trainer button.owl-next {
+   background: red !important;
+      margin-left: 10px;
+      padding: 0px 22px 10px 22px;
+}
+.trainer button.owl-prev{
+   background: red !important;
+   padding: 0px 22px 10px 22px;
+}
+.trainer button.owl-next:hover {
+   background: #000 !important;
 
-
-
-
-
-
-
+}
+.trainer button.owl-prev:hover{
+   background: #000 !important;
+}
+.blogbgg{
+   background-color: #191C23;
+   padding: 60px;
+   
+}
+.blogmain{
+   margin-top: -190px;
+}
 
 
 
