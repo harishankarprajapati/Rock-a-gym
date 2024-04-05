@@ -2,7 +2,7 @@
    background-image: url(../images/hero-bg.png);
    background-repeat: no-repeat;
    background-size: cover;
-   height: 1150px;
+   height: 1180px;
 
 }
 
@@ -74,12 +74,12 @@
    background: #fff;
 }
 
-.movesec {
+/* .movesec {
    background-image: url(../images/we3.png);
    background-repeat: no-repeat;
    background-size: cover;
    height: 880px;
-}
+} */
 
 .movesec p {
    color: #000;
@@ -100,6 +100,7 @@
 .bg-tra {
    background-color: #191C23;
    padding: 50px 10px;
+   margin-top: -40px;
 }
 
 .trans h2 {
@@ -817,6 +818,60 @@ p.secfitn a {
    color: #fff;
    font-family: "Open Sans";
    font-size: 18px;
+}
+.secteainer-bg{
+background-color: #313131;
+padding: 60px 10px;
+}
+
+.secover{
+   overflow: hidden;
+   padding: 150px 0px 118px 0px;
+   position: relative;
+   margin-top: -325px;
+}
+
+
+.maeqsec1{
+   background-color: #4f4f4f;
+   padding: 10px 0px;
+   transform: rotate(10deg);
+   margin-top: -20px;
+   margin-left: -20px;
+   margin-right: -20px;
+}
+.maeqsec2{
+   background-color: #fff;
+   padding: 10px 0px;
+   transform: rotate(-10deg);
+   margin-top: -75px;
+   margin-left: -20px;
+   margin-right: -20px;
+}
+.redroundsec{
+   background-color: red;
+   width: 30px;
+   height: 30px;
+   margin-top: 20px;
+   border-radius: 50%;
+
+}
+.maintextmarqflex{
+   display: flex;
+}
+.martext{
+   font-family: 'Montserrat';
+   font-size: 45px;
+   color: #FFF;
+   font-weight: 700;
+   text-transform: capitalize;
+}
+.martext2{
+   font-family: 'Montserrat';
+   font-size: 45px;
+   color: #525252;
+   font-weight: 700;
+   text-transform: capitalize;
 }
 
 
