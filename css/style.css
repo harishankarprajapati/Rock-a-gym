@@ -60,7 +60,7 @@
    background: #E41C1F;
    border-radius: 40px;
    display: inline-flex;
-   padding: 20px 37.18px 20px 37.38px;
+   padding: 10px 35px 10px 35px !important;
    color: #FFF;
    text-align: center;
    font-family: 'Montserrat';
@@ -930,13 +930,81 @@ p.secfitn a {
    
 }
 .blogmain{
-   margin-top: -190px;
+   margin-top: -160px;
+}
+.secmemberpp{
+   margin-bottom: 30px;
+}
+.secmemberpp p{
+   text-align: center;
+   color: #fff;
+   font-family: 'Montserrat';
+   font-size: 20px;
+}
+.secmemberbg{
+   background-color: #fff;
+   padding: 40px 30px;
+}
+.secmemberbg h2{
+   font-family: 'Montserrat';
+   font-size: 50px;
+   text-align: center;
+   color: #000;
+   font-weight: 700;
+}
+.secmemberbg h2 span{
+   color: #E41C1F;
+   font-size: 18px;
+   font-weight: 600;
+}
+.secmemberbg h4{
+   color: #E41C1F;
+   font-size: 20px;
+   font-weight: 700;
+   font-family: 'Montserrat';
+   text-align: center;  
+   padding-bottom: 10px;
+}
+.secmemberbg p{
+   color: #000;
+   font-size: 19px;
+   font-weight: 500;
+   font-family: 'Montserrat';
+}
+.secmemberbg p span{
+   color: #E41C1F;
+   font-size: 20px;
+   font-weight: 700;
+   font-family: 'Montserrat';
+}
+.secptagemember{
+   padding: 20px 0px 60px 0px ;
 }
 
-
-
-
-
+.secmemberbtn{
+   text-align: center;
+   padding-bottom: 30px;
+}
+.secmemberbtn a{
+  background-color: #E41C1F;
+  padding: 15px 30px ;
+  color: #fff;
+  font-size: 20px;
+   font-weight: 600;
+   font-family: 'Montserrat';
+   text-decoration: none;
+   text-transform: uppercase;
+   border-radius: 10px;
+}
+.secmemberbtn a:hover{
+   background-color: #000;
+}
+.blogbgg4{
+   background-color: #191C23;
+   padding: 60px;
+   margin-top: -150px;
+   
+}
 
 
 
