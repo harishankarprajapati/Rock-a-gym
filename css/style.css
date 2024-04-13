@@ -1006,8 +1006,94 @@ p.secfitn a {
    
 }
 
+.aboutbg22 {
+   background-image: url(../images/contactbgg.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: top;
+   height: 500px;
 
+}
+/* CONTAINER */
 
+.sec-cont-hh{
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 40px;
+   color: #fff;
+}
+.sec-cont-hh2{
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 30px;
+   color: #000;
+}
+.form-group {
+   margin-bottom: 15px;
+   padding-left: 0px;
+}
+.sec-cont-pp {
+   font-family: 'Manrope';
+   font-weight: 400;
+   font-size: 20px;
+   color: #fff;
+   padding-bottom: 20px;
+}
+.form-group label{
+   color: #fff;
+}
+.seccont-add-h {
+   font-family: 'Manrope';
+   font-size: 20px;
+   line-height: 150%;
+   font-weight: 700;
+   color: #000000;
+}
+.seccont-add-h span i{
+   color: #E41C1F;
+}
+.seccont-add-p{
+   font-family: 'Manrope';
+   font-weight: 400;
+   font-size: 18px;
+   color: #000000;
+   text-decoration: none;
+}
+.sec-contact-padding{
+   padding: 60px 0px;
+}
+.iconsc span i{
+   color: #E41C1F;
+}
+
+.navbar:before, .navbar:after {
+   display: table;
+   content: " ";
+   display: none;
+}
+.sec-menu-btn2 {
+   background:#E41C1F;
+   font-family: 'Manrope';
+   font-style: normal;
+   text-transform: uppercase;
+   font-weight: 600;
+   font-size: 18px;
+   line-height: 24px;
+   color: #fff;
+   padding: 15px 30px;
+   border: none;
+}
+
+.sec-menu-btn2:hover {
+   background:#FFF;
+   color: #000;
+}
+.contbgg{
+   background: #fff;
+   padding: 20px;
+}
 
 
 
