@@ -1,10 +1,4 @@
-@media only screen and (max-width:1440px) {
 
-a.nav-link.px-4.text-light {
-  font-size: 14px ;
-}
-
-}
 
 
 
@@ -20,7 +14,7 @@ a.nav-link.px-4.text-light {
 @media only screen and (min-width:1920px) {
 
   .container-fluid {
-    width: 1920px;
+    width: 1720px;
     margin: auto;
   }
   .secover {
@@ -35,6 +29,13 @@ a.nav-link.px-4.text-light {
 
 }
 
+@media only screen and (max-width:1440px) {
+
+  a.nav-link.px-4.text-light {
+    font-size: 14px ;
+  }
+  
+  }
 
 
 /* 1024 */
