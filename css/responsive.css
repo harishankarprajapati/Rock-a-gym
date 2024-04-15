@@ -20,8 +20,31 @@ a.nav-link.px-4.text-light {
 @media only screen and (min-width:1920px) {
 
   .container-fluid {
-    width: 1899px;
+    width: 1900px;
+    margin: auto;
   }
+  .secover {
+    padding: 193px 0px 163px 0px !important; 
+}
+.paddhero2 {
+  padding-top: 573px;
+}
+.bg-tra {
+  margin-top: -122px !important;
+}
+
+}
+
+
+
+/* 1024 */
+@media only screen and (min-width:1024px) {
+  .secover {
+    padding: 181px 0px 155px 0px;
+}
+.bg-tra {
+  margin-top: -110px;
+}
 }
 
 
@@ -29,7 +52,7 @@ a.nav-link.px-4.text-light {
 
 
 
-@media only screen and (max-width:767px) {
+@media only screen and (max-width:768px) {
   .hero-bg {
     background-image: url(../images/mobilehemobg.png) !important;
     background-repeat: no-repeat;

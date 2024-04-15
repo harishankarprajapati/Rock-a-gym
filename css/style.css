@@ -116,11 +116,13 @@
    color: #fff;
 }
 
+
 .home-blogbg {
    background-color: #292E32;
    padding: 20px;
    border-radius: 16px;
    margin-bottom: 30px;
+   text-align: center;
 }
 
 .home-blogbg h3 {
@@ -130,12 +132,18 @@
    font-weight: 500;
    text-align: center;
 }
+.bg-tra22 {
+   background-color: #191C23;
+   padding: 50px 10px;
+   margin-top: 0px;
+}
 
 .home-blogbg p {
    font-family: "Open Sans";
    font-size: 16px;
    color: #EEEEEE;
    padding-top: 20px;
+   text-align: left;
 }
 
 .home-blogbg p a {
@@ -672,7 +680,7 @@
 /* footer*/
 .footer-bg{
    background-color: #121110;
-   padding: 30px 30px;
+   padding: 60px 30px 30px 30px;
 }
 .socalicon{
    display: flex;
@@ -781,6 +789,7 @@ p.secfitn a {
    font-family: 'Montserrat';
    font-size: 60px;
    color: #fff;
+   font-weight: 700;
 }
 .secvisintext2{
    color: #fff;
@@ -887,18 +896,21 @@ p.secfitn a {
 .secmaintrainer{
    background-color: #000;
    margin-bottom: 30px;
+   text-align: center;
 }
 .secmaintrainer h4{
    font-family: 'Montserrat';
    font-size: 20px;
    color: #fff;
    padding: 10px 10px 0px 20px;
+   text-align: left;
 }
 .secmaintrainer p{
    font-family: 'Montserrat';
    font-size: 17px;
    color: #C7C7C7;
    padding: 0px 10px 30px 20px;
+   text-align: left;
 }
 .trainer .owl-nav {
       padding-bottom: 20px;
