@@ -5,7 +5,14 @@
    height: 1080px;
 
 }
-
+.secwhitpad{
+   width: 1185px !important;
+ }
+ .navbar-expand-xl .navbar-nav {
+   flex-direction: row;
+   display: flex;
+   justify-content: flex-end !important;
+ } 
 .paddhero {
    padding-top: 20px;
 }
