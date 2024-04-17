@@ -14,20 +14,93 @@
 @media only screen and (min-width:1920px) {
 
   .container-fluid {
-    width: 1820px;
+    width: 1903px;
     margin: auto;
+    padding: 0;
   }
+  a.navbar-brand {
+    padding-left: 40px;
+}
   .secover {
     padding: 193px 0px 163px 0px !important; 
 }
 .paddhero2 {
-  padding-top: 573px;
+  padding-top: 553px;
+  padding-left: 50px;
 }
 .bg-tra {
-  margin-top: -122px !important;
+  margin-top: -130px !important;
+  padding-top: 75px;
+  padding-bottom: 50px;
 }
+.feedback-slider-item {
+  position: relative;
+  padding: 10px;
+  margin-top: 0px;
+}
+.thumb-prev {
+  position: absolute;
+  z-index: 99;
+  top: 36%;
+  width: 160px;
+  height: 99px;
+  left: -167px;
+}
+.thumb-next{
+  position: absolute;
+  z-index: 99;
+  top: 36%;
+  width: 160px;
+  height: 99px;
+}
+.footer-bg{
+  background-color: #121110;
+  padding: 60px 30px 30px 30px !important;
+}
+.hero-bg {
+  height: 1180px;
+}
+.bg-tra22 {
+  background-color: #191C23;
+  padding: 90px 10px !important;
 
 }
+.letbgg {
+  background-image: url(../images/letbgg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 507px;
+  padding: 100px 60px 10px !important;
+}
+.secvisbgg {
+  background-color: #25201B;
+  padding: 50px 100px !important;
+}
+.secteainer-bg {
+  background-color: #313131;
+  padding: 60px 60px;
+}
+.customer-feedback.pb-5 {
+  padding-top: 50px;
+}
+.marrabout {
+  padding: 0px 100px 60px 100px;
+}
+.blogbgg {
+  padding: 60px;
+}
+.secmaintrainer {
+  padding-top: 65px;
+}
+.blogbgg4 {
+  padding: 90px 50px !important;
+  margin-top: 0px;
+}
+
+
+}
+
+
 
 @media only screen and (max-width:1440px) {
 
@@ -212,7 +285,7 @@ button.navbar-toggler {
 }
 .footer-bg {
   background: #0D141E;
-  padding: 20px 0px 20px 0px;
+  padding: 20px 0px 20px 0px !important;
 }
 .seccont4 p a {
   font-size: 14px;

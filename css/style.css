@@ -2,12 +2,12 @@
    background-image: url(../images/hero-bg.png);
    background-repeat: no-repeat;
    background-size: cover;
-   height: 1180px;
+   height: 1080px;
 
 }
 
 .paddhero {
-   padding-top: 565px;
+   padding-top: 20px;
 }
 .socal-links {
    display: flex;
@@ -39,13 +39,13 @@
 .paddhero2 p a {
    font-family: "Open Sans";
    font-size: 16px;
-   color: #E41C1F;
+   color: #FFF;
    font-weight: 600;
    text-decoration: none;
 }
 
 .paddhero2 p a:hover {
-   color: #fff;
+   color: #E41C1F;
 }
 
 .headermenusec {
@@ -103,6 +103,11 @@
    margin-top: -40px;
 }
 
+.bg-tra22 {
+   background-color: #191C23;
+   padding: 50px 10px !important;
+  
+}
 .trans h2 {
    font-family: 'Montserrat';
    color: #fff;
@@ -166,7 +171,7 @@
    background-image: url(../images/Placeholder.png);
    background-repeat: no-repeat;
    background-size: cover;
-   padding: 60px 10px;
+   padding: 60px 10px !important;
 }
 
 .ourpr h2 {
