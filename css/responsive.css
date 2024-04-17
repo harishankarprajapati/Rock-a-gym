@@ -141,6 +141,15 @@
     height: 600px;
     padding: 0;
  }
+ .navbar-expand-xl .navbar-nav {
+  flex-direction: column;
+  display: flex;
+  justify-content: flex-end !important;
+}
+
+.secwhitpad {
+  width: 100% !important;
+}
  .paddhero2 {
   padding-top: 10px !important;
     padding: 0px;
