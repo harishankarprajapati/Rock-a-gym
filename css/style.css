@@ -768,6 +768,14 @@ p.secfitn a {
    height: 500px;
 
 }
+.aboutbg22 {
+   background-image: url(../images/aboutpagebackground.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: bottom;
+   height: 300px;
+
+}
 .heaname h1{
    font-family: 'Montserrat';
    font-size: 70px;
