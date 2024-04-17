@@ -777,7 +777,7 @@ p.secfitn a {
    height: 350px;
 
 }
-.nav-link:focus, .nav-link:hover {
+.nav-link:focus {
    color: #000 !important;
 }
 .heaname h1{
