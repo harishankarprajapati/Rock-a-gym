@@ -777,6 +777,9 @@ p.secfitn a {
    height: 350px;
 
 }
+.nav-link:focus, .nav-link:hover {
+   color: #000 !important;
+}
 .heaname h1{
    font-family: 'Montserrat';
    font-size: 70px;
